@@ -1,1 +1,10 @@
 python-dotenv
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+fastapi
+pydantic
+redis
+uvicorn
