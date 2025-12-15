@@ -1,7 +1,7 @@
 import time
 import asyncio
 from langchain_core.messages import HumanMessage
-from models import get_models, PRICE_TABLE
+from ..util.models import get_models, PRICE_TABLE
 
 class LLMRunner:
     def __init__(self):
